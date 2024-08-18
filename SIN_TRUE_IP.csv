@@ -1,0 +1,7 @@
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+43.156.181.203,443,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",337,19
+8.219.6.150,8443,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",660,9.55
+8.219.117.198,2087,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",680,7.15
+8.219.117.198,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",652,6.82
+8.219.124.227,2053,TRUE,SIN,SG,Asia Pacific,Singapore,45102,"Alibaba US Technology Co., Ltd.",746,6.16
+43.156.116.194,443,TRUE,SIN,SG,Asia Pacific,Singapore,132203,"Tencent Building, Kejizhongyi Avenue",312,5.87
